@@ -1,0 +1,12 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Extending the console logger",
+  "main": "src/app.mjs",
+  "bin": {
+    "run": "./src/app.mjs"
+  },
+  "author": "Jonathan Parker",
+  "license": "ISC",
+  "type": "module"
+}
