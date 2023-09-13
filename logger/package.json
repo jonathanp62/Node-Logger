@@ -2,6 +2,14 @@
   "name": "logger",
   "version": "1.0.0",
   "description": "Extending the console logger",
+  "keywords": [
+    "node",
+    "learning",
+    "logger"
+  ],
+  "repository": {
+    "type": "git"
+  },
   "main": "src/app.mjs",
   "bin": {
     "run": "./src/app.mjs"
